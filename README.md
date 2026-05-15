@@ -117,7 +117,8 @@ Implemented strict schema enforcement in Azure Databricks using PySpark StructTy
 
 ## Metadata-Driven Notebook Orchestration Using Azure Data Factory
 
-<img width="1045" height="587" alt="Azure -8" src="https://github.com/user-attachments/assets/b9561020-b805-4420-87ca-814b6cec54f6" />
+<img width="1045" height="500" alt="Azure -8" src="https://github.com/user-attachments/assets/02b6e13f-1445-440a-bc94-55ca3048737a" />
+
 
 Implemented a metadata-driven orchestration pipeline in Azure Data Factory using Get Metadata and ForEach activities to dynamically process multiple HR datasets from Azure Blob Storage. The pipeline automatically discovers available source files and triggers parameterized Azure Databricks notebooks for scalable and automated ingestion workflows.
 
