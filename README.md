@@ -64,3 +64,12 @@ Power BI Integration — Power BI connects to Synapse via the serverless SQL poo
 
 🎯 Project Outcome
 Delivered a fully automated, cloud-native data engineering pipeline that ingests 300MB+ of raw HR data from MySQL, processes it through schema-validated PySpark notebooks in Databricks, and surfaces 9 clean, analytics-ready tables in Azure Synapse — all orchestrated end-to-end by Azure Data Factory with zero hardcoded logic. The final data is directly consumed by Power BI for business reporting.
+
+
+## Parameterized MySQL Source Dataset in Azure Data Factory
+
+<img width="1046" height="471" alt="Azure -1" src="https://github.com/user-attachments/assets/dc13b650-f2d8-444f-bb32-bbbf44bde581" />
+
+Configured a parameterized MySQL dataset in Azure Data Factory using @dataset().tablename expressions to enable metadata-driven ingestion of multiple HR tables without hardcoded values.
+
+
