@@ -14,7 +14,7 @@ Registering all tables as external tables in Azure Synapse (processedLakeDB)
 Connecting Synapse tables directly to Power BI for reporting and dashboards
 
 🔧 Technologies Used
-
+```
 Azure Data Factory (ADF)
 Azure Blob Storage
 Azure Databricks (PySpark / Python)
@@ -51,6 +51,7 @@ Azure Synapse Analytics — processedLakeDB
         ▼
 Power BI Dashboard
 (Connected via Synapse Serverless SQL Pool)
+```
 
 📈 Key Engineering Work Performed
 
